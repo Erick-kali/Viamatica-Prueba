@@ -60,5 +60,8 @@ In order to ensure that the Laravel community is welcoming to all, please review
 If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
 ## License
+Viamatica-Prueba
+Primero Crear la base de datos, los usuarios se agg por medio de la interfaz, no me alcanzo el tiempo para el registrarse ni recuperar clave, espero pueda ser de su agrado di mi mayor esfuerzo..
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Proyecto de Gestión de Licencias
+Este proyecto es una aplicación para gestionar licencias de software. Para poder usar el sistema, es necesario crear la base de datos y cargar algunos datos iniciales. esta funcional
